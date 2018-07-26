@@ -52,4 +52,4 @@ A library for generating highly performant views created by some of the same tea
 #### React-Redux
 A library containing helper functions which manage the repetitive tasks required to integrate React with Redux. As both React and Redux enforce unidirectional data flow and immutability, they integrate well together. Such applications tend to benefit both from the high-performance of React and the easy debugging of Redux.
 #### Angular-Redux
-Another library for connecting Redux to a common MVC framework. 
+Another library for connecting Redux to a common MVC framework. # Flux-React
